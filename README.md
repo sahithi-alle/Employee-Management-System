@@ -4,10 +4,6 @@
 - Please first check **application.properties** : Databasename, Username and Password
 - Change **.env** file as per your need 
 
-> Team Members
-
-<!-- 1. [Gautam Lathiya](https://github.com/DigitalGit2003)
-2. [Sandip Kanzariya](https://github.com/Sandip-Kanzariya) -->
    
 <center>
 <a href="https://github.com/Sandip-Kanzariya/Employee-Management-System
